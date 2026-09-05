@@ -1,0 +1,10 @@
+V7 MASTER QA
+Result: PASS
+Cities: 9
+Locations: 250
+All locations have Tell the Group: True
+All locations have coordinates: True
+Unique stable location IDs: True
+Details panel target exists: True
+Details function uses IDs: True
+City counts: {'amsterdam': 31, 'antwerp': 24, 'paris': 58, 'aix': 23, 'geneva': 9, 'milan': 32, 'como-lugano': 18, 'lucerne': 28, 'heidelberg': 27}

@@ -1,3 +1,3 @@
-MASTER WEBSITE VERSION 5
+BARRY'S EUROPE GUIDE V7
 
-Paris, Antwerp and Amsterdam are active. Upload every file in this folder to the root of the existing GitHub Pages repository and replace the old versions. The cache name is bev5 so installed iPhone copies can refresh. Accommodation pins should be removed before public sharing.
+Upload all files in this folder to the root of the GitHub Pages repository, replacing older versions. The app contains nine active guides. Details use stable location IDs, avoiding apostrophe and naming conflicts. The online map requires internet; guide data is cached after the first successful load. Remove private accommodation pins before public sharing.

@@ -1,0 +1,251 @@
+﻿id,city,group,name,category,lat,lng,story
+p001,amsterdam,Historic Centre,Amsterdam Centraal,Station,52.3792,4.8994,"The station rests on thousands of piles driven into soft ground. When the building opened in 1889, critics complained that the station blocked Amsterdam from the waterfront."
+p002,amsterdam,Historic Centre,Basilica of Saint Nicholas,Church,52.3766,4.9012,Public Catholic worship was restricted for long periods in Protestant Amsterdam. The large 19th-century basilica announced the return of visible Catholic worship to the city centre.
+p003,amsterdam,Historic Centre,Zeedijk,Historic street,52.3755,4.9005,"Zeedijk began as a protective sea dike. Sailors, merchants and newcomers later gave the street a rough port reputation before the district was renewed."
+p004,amsterdam,Historic Centre,Brouwerij De Prael,Brewery,52.3752,4.8995,De Prael combines Dutch brewing with a mission to provide meaningful employment for people who face barriers to work.
+p005,amsterdam,Historic Centre,Oude Kerk,Church,52.3744,4.8982,Sailors once prayed in Amsterdam’s oldest surviving building before dangerous voyages. The church now stands in the centre of the old harbour and nightlife district.
+p006,amsterdam,Historic Centre,De Wallen historic district,Neighbourhood,52.3742,4.8972,"The neighbourhood grew beside a global port serving sailors, merchants and travellers. The area is among Amsterdam’s oldest districts."
+p007,amsterdam,Historic Centre,FEBO Nieuwendijk,Quick bite,52.3755,4.8944,FEBO turned fast food into a wall of small doors. The enduring automat format reflects a Dutch preference for speed and practicality.
+p008,amsterdam,Historic Centre,Dam Square,Historic square,52.3731,4.8927,Amsterdam’s name comes from a dam built across the Amstel River. The settlement that became the city grew around this spot.
+p009,amsterdam,Historic Centre,Nieuwe Kerk,Church,52.3742,4.892,"Despite being called the New Church, the building dates to the 1400s. Dutch monarchs are inaugurated here rather than crowned."
+p010,amsterdam,Historic Centre,Royal Palace Amsterdam,Palace,52.3732,4.8914,The palace began as Amsterdam’s grand city hall during the Dutch Golden Age. Napoleon’s brother later converted the civic building into a royal residence.
+p011,amsterdam,Canal Ring and Jordaan,The 9 Streets,Canal district,52.3705,4.8842,These compact streets connected the grand canals and served merchants and craftspeople. The small scale gives the neighbourhood much of its present charm.
+p012,amsterdam,Canal Ring and Jordaan,Dancing Houses on Damrak,Photo stop,52.3752,4.8961,Some canal houses lean because foundations shifted. Others were intentionally tilted forward so goods hoisted to upper windows would clear the facade.
+p013,amsterdam,Canal Ring and Jordaan,Westerkerk,Church,52.3745,4.884,Anne Frank wrote about hearing the church bells while hiding nearby. The bells connected the secret annex to ordinary life outside.
+p014,amsterdam,Canal Ring and Jordaan,Anne Frank House area,Second World War history,52.3752,4.884,The canal setting reminds visitors that Anne Frank was a teenager whose ordinary life was abruptly confined by persecution and war.
+p015,amsterdam,Canal Ring and Jordaan,Winkel 43,Apple pie,52.3792,4.8866,"Winkel 43 is regularly part of the debate over Amsterdam’s best apple pie. Dutch appeltaart is deep, dense and heavily spiced."
+p016,amsterdam,Canal Ring and Jordaan,Proeflokaal Arendsnest,Dutch beer,52.3765,4.8873,"Arendsnest focuses on beer brewed in the Netherlands, turning one canal-side bar into a survey of the country’s modern brewing culture."
+p017,amsterdam,Canal Ring and Jordaan,Jopen Amsterdam,Craft beer,52.3643,4.8832,"Jopen reconstructed beers from historical brewing records, showing that archival research can be poured into a modern glass."
+p018,amsterdam,Markets and Museums,Begijnhof,Hidden courtyard,52.3697,4.89,This quiet courtyard housed religious women who lived together without taking the full permanent vows of nuns.
+p019,amsterdam,Markets and Museums,Flower Market,Market,52.367,4.8933,"Tulips arrived from farther east, but Dutch enthusiasm created the famous speculative episode known as Tulip Mania."
+p020,amsterdam,Markets and Museums,Van Wonderen Stroopwafels,Sweet stop,52.3682,4.8916,"Stroopwafels began as an economical snack made from bakery scraps and syrup, then became one of the Netherlands’ best-known treats."
+p021,amsterdam,Markets and Museums,Waterlooplein Market,Flea market,52.3677,4.9015,"Amsterdam has always been a trading city. Waterlooplein continues that tradition through browsing, bargaining and second-hand goods."
+p022,amsterdam,Markets and Museums,Rembrandt House Museum,Museum,52.3694,4.9013,Rembrandt earned fame and money but lived beyond his means. The house connects artistic triumph with personal financial difficulty.
+p023,amsterdam,Markets and Museums,Museumplein,Public square,52.358,4.8811,"Within a short walk, Amsterdam presents Dutch masters, Van Gogh and modern art as very different versions of the national story."
+p024,amsterdam,Markets and Museums,Rijksmuseum,Art museum,52.36,4.8852,"Dutch Golden Age paintings reveal the confidence, commerce and contradictions of a small nation with global reach."
+p025,amsterdam,Markets and Museums,Van Gogh Museum,Art museum,52.3584,4.8811,Van Gogh achieved little commercial success during his lifetime but became one of the most recognized artists in history.
+p026,amsterdam,Markets and Museums,Moco Museum,Modern art,52.3586,4.8839,"A traditional villa hosts art that comments on modern celebrity, consumer culture and public life."
+p027,amsterdam,Cruises and Food,Flagship Amsterdam Canal Cruise,Canal cruise,52.3764,4.907,"Amsterdam makes more sense from the water because the canals served transportation, drainage, defence and trade."
+p028,amsterdam,Cruises and Food,Those Dam Boat Guys,Small boat cruise,52.3646,4.9046,A smaller boat can enter quieter canals and reveal details hidden from street height.
+p029,amsterdam,Cruises and Food,Hans Egstorf Bakery,Historic bakery,52.3696,4.8886,"The bakery represents everyday Amsterdam: flour, ovens and neighbourhood routines rather than merchant palaces."
+p030,amsterdam,Cruises and Food,Hotel Nes Amsterdam,Hotel,52.3669,4.8971,"The hotel is the first Amsterdam base, well positioned for the canal ring and historic centre."
+p031,amsterdam,Cruises and Food,ibis Amsterdam Centre,Hotel,52.3793,4.8972,"The final-night hotel sits beside Centraal Station, making the return and airport departure straightforward."
+p032,antwerp,Central to Old Town,B&B HOTEL Antwerpen Centrum,Hotel,51.2176,4.4185,The Antwerp base is close to Central Station and the pedestrian route toward the historic centre.
+p033,antwerp,Central to Old Town,Antwerpen-Centraal,Station,51.2172,4.4211,The monumental station was designed to make railway arrival feel ceremonial. Its layered platforms and vast entrance hall are attractions themselves.
+p034,antwerp,Central to Old Town,Chocolate Nation,Chocolate museum,51.2182,4.4221,"Belgian chocolate grew from imported cacao, skilled production and the nation’s appetite for luxury food. The museum sits across from the station."
+p035,antwerp,Central to Old Town,Diamond District,Historic district,51.2162,4.4182,"Antwerp’s compact diamond district reflects centuries of international trade, specialized knowledge and trust-based commerce."
+p036,antwerp,Central to Old Town,Meir,Shopping street,51.2181,4.411,"The Meir is the grand pedestrian route linking Central Station to the old centre, lined with former townhouses and commercial buildings."
+p037,antwerp,Central to Old Town,Handelsbeurs Antwerpen,Historic exchange,51.2194,4.4077,Merchants traded in Antwerp long before Wall Street existed. The restored exchange hall reflects the city’s role in early global finance.
+p038,antwerp,Historic Centre,Cathedral of Our Lady,Cathedral,51.2203,4.4012,"The Gothic cathedral dominates Antwerp and contains major works by Peter Paul Rubens, whose career was closely tied to the city."
+p039,antwerp,Historic Centre,Nello and Patrasche Statue,Quirky statue,51.2202,4.4008,"The statue honours characters from A Dog of Flanders, a story that became particularly beloved in Japan and Korea."
+p040,antwerp,Historic Centre,Paters Vaetje,Beer cafe,51.2206,4.4018,This small beer cafe beside the cathedral turns a historic square into a practical introduction to Belgian beer culture.
+p041,antwerp,Historic Centre,Elfde Gebod,Quirky restaurant,51.2207,4.4018,"The interior is crowded with religious statues, creating one of Antwerp’s most unusual dining rooms."
+p042,antwerp,Historic Centre,Grote Markt,Historic square,51.2213,4.3994,"Guild houses, City Hall and Brabo Fountain display the wealth and civic pride generated by Antwerp’s trading history."
+p043,antwerp,Historic Centre,Brabo Fountain,Legend,51.2212,4.3991,"The fountain dramatizes the legend of Brabo throwing a giant’s severed hand into the river, an often-repeated folk explanation for Antwerp’s name."
+p044,antwerp,Historic Centre,Vlaeykensgang,Hidden lane,51.2199,4.3999,"The tiny passage survived changes that erased many medieval lanes, offering a sudden step away from the busy old centre."
+p045,antwerp,Historic Centre,Billie's Bier Kafeteria,Gastropub,51.2179,4.4014,The gastropub combines a serious Belgian beer list with food in the old centre.
+p046,antwerp,Historic Centre,Frites Atelier Antwerp,Quick bite,51.2173,4.4053,Belgian fries depend on careful frying and are traditionally served with a remarkable range of sauces.
+p047,antwerp,Historic Centre,De Ruien,Underground tour,51.2203,4.3971,The underground route follows former canals and sewers hidden beneath modern Antwerp.
+p048,antwerp,Historic Centre,Het Steen,Castle,51.2226,4.397,The medieval fortress guarded the Scheldt and remained a visible symbol of river access and control.
+p049,antwerp,Port and South,MAS Museum,Museum and rooftop,51.2289,4.4047,"The red waterfront museum tells stories of Antwerp, the river and the wider world. Its upper panorama explains the port-city geography."
+p050,antwerp,Port and South,Red Star Line Museum,Migration history,51.2323,4.4027,Millions of European emigrants passed through Antwerp on their way to North America. The museum restores individual stories to that mass movement.
+p051,antwerp,Port and South,Port House,Modern architecture,51.2409,4.4072,"Zaha Hadid’s glass addition appears to float over a former fire station, combining old port infrastructure with a diamond-like contemporary form."
+p052,antwerp,Port and South,De Koninck Brewery,Brewery,51.2002,4.4174,The city brewery connects Antwerp identity with local brewing traditions and the Bolleke beer glass.
+p053,antwerp,Port and South,PAKT,Creative district,51.1992,4.4212,"A reused industrial complex combines food, workspaces and rooftop greenery as a modern form of urban reinvention."
+p054,antwerp,Port and South,Plantin-Moretus Museum,Printing history,51.2183,4.3978,"The historic printing house links Antwerp to the spread of books, maps and knowledge. Confirm reopening because renovations may affect the September visit."
+p055,antwerp,Port and South,Bar Chapel,Garden bar,51.2227,4.4365,A former chapel and garden became an atmospheric bar. Confirm current opening before travelling across the city.
+p056,paris,Notre-Dame and Ile de la Cite,Home base - 69 Rue Galande,Lodging,48.8516,2.3471,The private base sits beside the Latin Quarter and Notre-Dame. Remove this pin before sharing the guide publicly.
+p057,paris,Notre-Dame and Ile de la Cite,Saint-Julien-le-Pauvre,Church,48.8512,2.3473,One of Paris’s oldest churches stands beside a quiet garden facing Notre-Dame.
+p058,paris,Notre-Dame and Ile de la Cite,Square Rene Viviani,Garden,48.8511,2.3476,"The small Seine-side garden is known for a classic cathedral view and an old, dramatically shaped tree."
+p059,paris,Notre-Dame and Ile de la Cite,Shakespeare and Company,Bookshop,48.8526,2.3471,The English-language bookshop continues a Paris tradition of welcoming writers and literary travellers.
+p060,paris,Notre-Dame and Ile de la Cite,Notre-Dame de Paris,Cathedral,48.853,2.3499,The Gothic cathedral became a reference point for Paris itself. Point Zero in the square measures French road distances from the city.
+p061,paris,Notre-Dame and Ile de la Cite,Sainte-Chapelle,Chapel,48.8554,2.345,The royal chapel turns walls into light through immense stained-glass windows narrating biblical history.
+p062,paris,Notre-Dame and Ile de la Cite,Conciergerie,Revolutionary history,48.8559,2.3451,The former royal palace became a prison during the Revolution and held Marie Antoinette before execution.
+p063,paris,Notre-Dame and Ile de la Cite,Place Dauphine,Historic square,48.8567,2.3427,The triangular royal square preserves a calmer corner of central Paris near Pont Neuf.
+p064,paris,Notre-Dame and Ile de la Cite,Pont Neuf,Bridge,48.8571,2.3413,"The name means New Bridge, but Pont Neuf is the oldest surviving bridge across the Seine in Paris."
+p065,paris,Notre-Dame and Ile de la Cite,Square du Vert-Galant,Viewpoint,48.8571,2.3402,The river-level park at the tip of Ile de la Cite reveals Paris from nearly the height of the water.
+p066,paris,Latin Quarter and Pantheon,Rue de la Huchette,Historic street,48.8527,2.3457,The lively lane preserves the compressed scale of the medieval Latin Quarter.
+p067,paris,Latin Quarter and Pantheon,Church of Saint-Severin,Church,48.8521,2.3452,The church contains an unusual twisted column resembling a stone palm tree.
+p068,paris,Latin Quarter and Pantheon,Fontaine Saint-Michel,Monument,48.8533,2.3439,The fountain marks a major entrance to the Latin Quarter and remains a practical meeting point.
+p069,paris,Latin Quarter and Pantheon,Musee de Cluny,Museum,48.8506,2.3431,"The medieval museum incorporates Roman baths, placing several layers of Paris history in one site."
+p070,paris,Latin Quarter and Pantheon,Pantheon,Landmark,48.8462,2.3464,The building moved from church to national mausoleum and contains a Foucault pendulum demonstrating Earth’s rotation.
+p071,paris,Latin Quarter and Pantheon,Saint-Etienne-du-Mont,Church,48.8465,2.3481,"The church preserves a rare stone rood screen, an architectural feature lost from most French churches."
+p072,paris,Latin Quarter and Pantheon,Place de l'Estrapade,TV location,48.8452,2.3477,The square became internationally recognizable as an exterior location in Emily in Paris.
+p073,paris,Latin Quarter and Pantheon,Boulangerie Moderne,Bakery and TV,48.8455,2.3467,The bakery offers a real neighbourhood food stop within the television-location route.
+p074,paris,Latin Quarter and Pantheon,Terra Nera,Restaurant and TV,48.8457,2.3468,The Italian restaurant supplied the exterior for a fictional restaurant in Emily in Paris.
+p075,paris,Latin Quarter and Pantheon,Rue Mouffetard,Market street,48.8419,2.3498,The sloping market street follows an old route and remains lined with food shops and cafes.
+p076,paris,Latin Quarter and Pantheon,Arenes de Lutece,Roman ruins,48.8451,2.3528,The hidden amphitheatre reminds visitors that Roman Lutetia existed beneath modern Paris.
+p077,paris,Latin Quarter and Pantheon,Jardin du Luxembourg,Garden,48.8462,2.3372,"The formal garden combines palace history, public chairs, fountains and everyday Paris life."
+p078,paris,Louvre to Eiffel,Louvre Museum,Museum,48.8606,2.3376,The Louvre evolved from fortress to palace to museum. The tour is booked for September 12.
+p079,paris,Louvre to Eiffel,Cour Carree du Louvre,Architecture,48.8601,2.3389,The enclosed courtyard emphasizes the Louvre’s long palace history away from the modern glass pyramid.
+p080,paris,Louvre to Eiffel,Palais Royal and Colonnes de Buren,Photo stop,48.8636,2.3364,"Contemporary striped columns occupy a formal palace courtyard, creating a deliberate old-and-new contrast."
+p081,paris,Louvre to Eiffel,Galerie Vivienne,Covered passage,48.8661,2.3392,The ornate arcade recalls an era when covered passages were among Paris’s most fashionable shopping environments.
+p082,paris,Louvre to Eiffel,Jardin des Tuileries,Garden,48.8635,2.3275,The formal garden extends the Louvre’s royal landscape west toward Place de la Concorde.
+p083,paris,Louvre to Eiffel,Place de la Concorde,Historic square,48.8656,2.3212,The square witnessed Revolutionary executions and now centres on an ancient Egyptian obelisk.
+p084,paris,Louvre to Eiffel,Petit Palais,Museum,48.8661,2.3146,The ornate 1900 building surrounds a peaceful interior courtyard and houses a fine-arts collection.
+p085,paris,Louvre to Eiffel,Pont Alexandre III,Bridge,48.8639,2.3136,Gilded sculpture and low arches made the bridge both ceremonial and carefully designed to preserve views.
+p086,paris,Louvre to Eiffel,Esplanade des Invalides,Architecture,48.8595,2.3126,The broad approach creates a formal perspective toward the gold dome and military complex.
+p087,paris,Louvre to Eiffel,Rue Cler,Food street,48.8565,2.3069,"The compact market street offers cheese, pastry and picnic supplies near the Eiffel Tower."
+p088,paris,Louvre to Eiffel,Kozy Bosquet,Brunch,48.8564,2.306,The saved brunch stop is convenient for Rue Cler and the Eiffel area.
+p089,paris,Louvre to Eiffel,Champ de Mars,Park,48.8557,2.2986,The long lawn creates the familiar full-height view of the Eiffel Tower.
+p090,paris,Louvre to Eiffel,Eiffel Tower,Landmark,48.8584,2.2945,"Built for the 1889 exposition, the iron tower became the permanent symbol critics never expected. Summit tickets are booked for September 13."
+p091,paris,Louvre to Eiffel,Trocadero,Viewpoint,48.8627,2.2887,The raised terrace aligns directly with the Eiffel Tower across the Seine.
+p092,paris,Louvre to Eiffel,Arc de Triomphe,Monument,48.8738,2.295,"The monument anchors twelve avenues and honours military history; visitors reach it by underpass, not traffic lanes."
+p093,paris,Opera and Montmartre,Galeries Lafayette Haussmann,Shopping and view,48.8721,2.3321,The department store’s glass dome and rooftop turn shopping architecture into sightseeing.
+p094,paris,Opera and Montmartre,Palais Garnier,Opera house,48.872,2.3316,The lavish opera house inspired the setting for The Phantom of the Opera and embodies 19th-century spectacle.
+p095,paris,Opera and Montmartre,Passage des Panoramas,Covered passage,48.8712,2.3412,The historic passage preserves small shops and weather-protected urban life.
+p096,paris,Opera and Montmartre,Le Mur des Je t'aime,Public art,48.8848,2.3386,The wall collects declarations of love in many languages in a small Montmartre garden.
+p097,paris,Opera and Montmartre,Place du Tertre,Artists square,48.8865,2.3408,Artists and portrait painters continue Montmartre’s highly visible creative tradition.
+p098,paris,Opera and Montmartre,Sacre-Coeur Basilica,Basilica and view,48.8867,2.3431,The hilltop basilica combines national religious symbolism with one of Paris’s broadest city panoramas.
+p099,paris,East Paris,Bouillon Republique,Restaurant,48.8668,2.3653,The bouillon model was designed to serve straightforward French meals quickly and affordably.
+p100,paris,East Paris,Place de la Republique,Civic square,48.8675,2.3638,The large square centres on the Republic and remains a place for gatherings and demonstrations.
+p101,paris,East Paris,Canal Saint-Martin,Canal walk,48.8723,2.3656,"Locks, bridges and waterside cafes preserve a working canal as neighbourhood scenery."
+p102,paris,East Paris,Atelier des Lumieres,Digital art,48.8619,2.3806,A former industrial foundry became a huge projection space for immersive art.
+p103,paris,East Paris,Pere-Lachaise Cemetery,Cemetery,48.8614,2.3933,The garden cemetery became an outdoor museum of sculpture and the final resting place of many famous figures.
+p104,paris,Food and Practical,Restaurant LAVA,Dinner booking,48.8472,2.3488,"Dinner is booked for September 11, close to the Pantheon route."
+p105,paris,Food and Practical,Au Trappiste,Brasserie,48.859,2.3476,The central brasserie works as a meal stop between Notre-Dame and the Louvre.
+p106,paris,Food and Practical,The Long Hop,Pub,48.8506,2.3496,The pub is close to the Rue Galande accommodation.
+p107,paris,Food and Practical,Aux Trois Mailletz,Piano bar,48.8517,2.347,The late-evening venue sits almost beside the accommodation.
+p108,paris,Food and Practical,Hotel Dame des Arts rooftop,Rooftop,48.8525,2.3425,The rooftop offers a central view near Saint-Michel; access rules should be checked.
+p109,paris,Food and Practical,A. Lacroix Patissier,Patisserie,48.8513,2.3494,The pastry shop combines a quick food stop with a Notre-Dame setting.
+p110,paris,Food and Practical,Bistrot 20 - Le Vingt,Restaurant,48.8522,2.3452,The saved restaurant sits inside the Latin Quarter walking area.
+p111,paris,Food and Practical,Bistrot Monceau,Restaurant,48.8826,2.3098,The restaurant is best grouped with Arc de Triomphe or Parc Monceau.
+p112,paris,Food and Practical,Monoprix Boulevard Saint-Michel,Groceries,48.85,2.3432,A practical grocery stop near the accommodation.
+p113,paris,Food and Practical,Franprix Latin Quarter,Groceries,48.8443,2.3512,A practical essentials stop in the Latin Quarter.
+p114,aix,Historic Spa Centre,Riviera Hotel Restaurant and Spa,Hotel,45.6888,5.9093,"The hotel base sits between the railway, casino and historic thermal centre."
+p115,aix,Historic Spa Centre,Casino Grand Cercle,Belle Epoque landmark,45.6895,5.9144,Spa visitors came for health by day and social life by night; the casino supplied the evening spectacle.
+p116,aix,Historic Spa Centre,Parc Floral des Thermes,Garden,45.6892,5.916,The gardens functioned like an outdoor salon between treatments for fashionable spa guests.
+p117,aix,Historic Spa Centre,Old Thermal Baths,Thermal history,45.6887,5.9156,The scale of the former complex shows how health tourism shaped the entire town.
+p118,aix,Historic Spa Centre,Arc de Campanus,Roman monument,45.6885,5.9151,The Roman family memorial links modern Aix directly to ancient Aquae and its thermal sanctuary.
+p119,aix,Historic Spa Centre,Temple of Diana and Town Hall,Roman and civic history,45.6882,5.9148,"Roman remains, a noble residence and civic buildings overlap on one central square."
+p120,aix,Historic Spa Centre,Rue de Geneve and Place Carnot,Town walk,45.691,5.913,These streets show everyday Aix beyond the grand hotels and thermal buildings.
+p121,aix,Historic Spa Centre,Musee Faure,Art museum,45.6926,5.9162,A doctor’s private collection creates a surprisingly intimate fine-art museum in a villa.
+p122,aix,Lake and Ports,Grand Port,Lakefront,45.7062,5.8876,The port continues Aix’s connection to transport and recreation by water.
+p123,aix,Lake and Ports,Le Patio du Lac,Restaurant,45.7068,5.8883,A lakeside meal pairs boats and mountain views with the modern social life of the port.
+p124,aix,Lake and Ports,Nautic Pulsion,Boat rental,45.7067,5.8872,"From the water, the town’s position between a glacial lake and mountain slopes becomes clear."
+p125,aix,Lake and Ports,Jardin Vagabond,Garden,45.7118,5.8861,Naturalistic planting contrasts with the formal gardens of the spa quarter.
+p126,aix,Lake and Ports,Lakeside Promenade,Scenic walk,45.699,5.8892,The promenade joined the traditional spa town to its modern lakeside-resort identity.
+p127,aix,Lake and Ports,Petit Port,Marina,45.6957,5.8903,The smaller port offers a quieter and more everyday waterfront atmosphere.
+p128,aix,Food and Excursions,Le Coulant Baraque,Restaurant,45.69,5.91,This is the marked must-try restaurant; verify its exact address and opening hours.
+p129,aix,Food and Excursions,Mama Donna Pinseria,Italian restaurant,45.6896,5.9108,Pinsa reflects the long cultural routes connecting France and Italy across the Alps.
+p130,aix,Food and Excursions,Le Philybert,Raclette,45.6903,5.912,"Raclette grew from practical Alpine food, with warmed cheese scraped over potatoes."
+p131,aix,Food and Excursions,Melodie Gourmande,French restaurant,45.6892,5.9132,Polished dining continues Aix’s history as a resort for affluent visitors.
+p132,aix,Food and Excursions,La Bonne Adresse,Lunch,45.691,5.911,A neighbourhood lunch stop offers the everyday pace of the town between major sights.
+p133,aix,Food and Excursions,Le Sens Unique,French restaurant,45.6885,5.9118,"An evening meal fits the old spa rhythm of treatments, promenade and dinner."
+p134,aix,Food and Excursions,Mont Revard Belvedere,Mountain viewpoint,45.6817,5.9788,"The high balcony reveals the full geography of Aix, Lac du Bourget and the surrounding Alps."
+p135,aix,Food and Excursions,Hautecombe Abbey,Abbey,45.7526,5.8397,Royal Savoy tombs connect the quiet lake with a much larger European political story.
+p136,aix,Food and Excursions,Lac du Bourget,Lake,45.7,5.88,France’s largest natural lake entirely within the country shaped Aix long before modern tourism.
+p137,geneva,Geneva Transit Highlights,Geneva Cornavin Station,Transit,46.2102,6.1424,The station is the practical centre of the short Geneva connection between Aix-les-Bains and Milan.
+p138,geneva,Geneva Transit Highlights,Lake Geneva waterfront,Lakefront,46.207,6.151,"The city grew beside a lake and river crossing that linked Alpine, French and Swiss routes."
+p139,geneva,Geneva Transit Highlights,Jet d Eau,Landmark,46.2074,6.1559,The giant fountain began as a pressure-release feature for a hydraulic system and evolved into Geneva’s defining symbol.
+p140,geneva,Geneva Transit Highlights,Jardin Anglais,Garden,46.2048,6.1513,"The lakeside garden offers a compact introduction to Geneva through flowers, promenades and views."
+p141,geneva,Geneva Transit Highlights,Flower Clock,Quirky landmark,46.2047,6.1523,The floral clock combines Swiss watchmaking identity with ornamental gardening.
+p142,geneva,Geneva Transit Highlights,Rue du Rhone,Shopping street,46.2047,6.1465,"The street reflects Geneva’s international wealth, watches and luxury trade."
+p143,geneva,Geneva Transit Highlights,Place du Bourg-de-Four,Historic square,46.2008,6.1488,The old-town square developed near ancient routes and remains a central gathering place.
+p144,geneva,Geneva Transit Highlights,St Pierre Cathedral,Cathedral,46.2012,6.1488,The cathedral became closely associated with Reformation leader John Calvin and Geneva’s religious history.
+p145,geneva,Geneva Transit Highlights,Reformation Wall,Monument,46.2003,6.1456,The monument turns major Reformation figures into a stone narrative of Geneva’s political and religious identity.
+p146,milan,Historic Centre,Piazza del Duomo,Square,45.4642,9.19,"Religion, commerce and politics converge in Milan’s ceremonial heart."
+p147,milan,Historic Centre,Duomo di Milano,Cathedral,45.4641,9.1919,"Construction began in 1386 and continued for nearly six centuries, leaving thousands of statues and marble spires."
+p148,milan,Historic Centre,Galleria Vittorio Emanuele II,Historic arcade,45.4657,9.1901,The iron-and-glass gallery helped establish the model for luxury shopping arcades; visitors spin on the bull mosaic for luck.
+p149,milan,Historic Centre,Teatro alla Scala,Opera house,45.4675,9.1897,"Many important operas debuted here, while 19th-century boxes also functioned as private social rooms."
+p150,milan,Brera Castle and Park,Corso Garibaldi 72,Accommodation,45.4786,9.1847,"The accommodation sits between artistic Brera, the castle and modern Porta Nuova."
+p151,milan,Brera Castle and Park,Brera District,Neighbourhood,45.472,9.1881,"Artists and intellectuals gathered around the academy, giving Brera a creative identity distinct from formal central Milan."
+p152,milan,Brera Castle and Park,Pinacoteca di Brera,Art museum,45.472,9.1881,The gallery holds major Italian paintings that many Duomo-focused visitors miss.
+p153,milan,Brera Castle and Park,Sforza Castle,Castle,45.4705,9.1793,Leonardo worked for the Duke of Milan here; later restoration transformed a damaged fortress into a civic cultural complex.
+p154,milan,Brera Castle and Park,Parco Sempione,Park,45.4736,9.1764,The park provides a public counterpoint to Milan’s dense architecture and the former seat of ducal power.
+p155,milan,Brera Castle and Park,Branca Tower,Viewpoint,45.4752,9.1736,Gio Ponti’s slender steel tower represents Milan’s enthusiasm for modern design and engineering.
+p156,milan,Leonardo and Roman Milan,San Maurizio al Monastero Maggiore,Frescoed church,45.4659,9.1787,"A plain exterior hides walls covered in Renaissance frescoes, earning the nickname Sistine Chapel of Milan."
+p157,milan,Leonardo and Roman Milan,Santa Maria delle Grazie and The Last Supper,Church and masterpiece,45.466,9.1709,"Leonardo’s experimental wall-painting technique allowed detail but began deteriorating early, requiring centuries of conservation."
+p158,milan,Leonardo and Roman Milan,Leonardos Vineyard,Historic vineyard,45.4658,9.1698,"The Duke of Milan gave Leonardo a vineyard, later rediscovered and replanted as a personal link to the artist."
+p159,milan,Leonardo and Roman Milan,Columns of San Lorenzo,Roman ruins,45.4588,9.1814,"The ancient columns survived about sixteen centuries while empires, streets and buildings changed around them."
+p160,milan,Modern Milan,Monumental Cemetery,Cemetery and sculpture,45.4854,9.1792,Wealthy Milanese families turned remembrance into elaborate architecture and outdoor sculpture.
+p161,milan,Modern Milan,Porta Nuova District,Modern district,45.4825,9.1907,"Former rail and industrial land became a new skyline, demonstrating Milan’s latest reinvention."
+p162,milan,Modern Milan,Piazza Gae Aulenti,Modern square,45.4831,9.1892,The elevated pedestrian plaza symbolizes Milan’s shift toward a global business and design centre.
+p163,milan,Modern Milan,Bosco Verticale,Vertical forest,45.4856,9.1908,Hundreds of trees and thousands of plants treat greenery as part of the residential towers rather than landscaping below.
+p164,milan,Navigli and Cocktails,Navigli District,Canal district,45.4517,9.1733,Milan once depended on canals for transport and construction materials; the surviving Navigli became an evening neighbourhood.
+p165,milan,Navigli and Cocktails,Rita Cocktails,Cocktail bar,45.4489,9.1707,Rita helped push Milan’s modern cocktail culture beyond simple aperitivo drinks.
+p166,milan,Navigli and Cocktails,UGO Cocktail Bar,Cocktail bar,45.451,9.1723,"Aperitivo turns a drink, snacks and conversation into Milan’s transition from workday to evening."
+p167,milan,Navigli and Cocktails,Mag Cafe,Cocktail bar,45.4513,9.1732,The small canal-side bar captures a highly designed and conversational side of modern Milan.
+p168,milan,Navigli and Cocktails,Bar Basso,Historic cocktail bar,45.4778,9.2222,The Negroni Sbagliato was reportedly created here when sparkling wine replaced gin by mistake.
+p169,milan,Food and Transport,Pasta Fresca Brambilla,Fresh pasta,45.4731,9.2191,"Northern pasta traditions often emphasize butter, cheese, fillings and rich sauces."
+p170,milan,Food and Transport,Bottega Farina Pasta Fresca,Pasta,45.47,9.195,Handmade pasta depends on texture and sauce balance more than elaborate presentation.
+p171,milan,Food and Transport,miscusi Milan,Pasta,45.4655,9.1905,The restaurant adapts pasta tradition to a modern customizable format.
+p172,milan,Food and Transport,Pasta d Autore,Pasta,45.461,9.182,The name frames pasta as personal expression built on regional traditions.
+p173,milan,Food and Transport,Pasto Laboratorio di Pasta,Pasta,45.472,9.187,"Simple pasta concentrates complexity in dough, shaping, cooking time and sauce."
+p174,milan,Food and Transport,Il Marchese Milano,Restaurant,45.4685,9.1868,"The room, service and presentation reflect Milan’s design-conscious dining culture."
+p175,milan,Food and Transport,Dongio,Southern Italian restaurant,45.4542,9.2076,A southern meal in Milan shows how dramatically Italian cuisine changes by region.
+p176,milan,Food and Transport,Osteria Da Fortunata Brera,Roman restaurant,45.4724,9.1868,Hand-shaped Roman pasta contrasts with Lombardy’s rice and filled-pasta traditions.
+p177,milan,Food and Transport,Milano Centrale,Station,45.4862,9.2045,"The monumental station was designed to project scale and power, making arrival ceremonial."
+p178,como-lugano,Bellagio Two-Hour Route,Bellagio Ferry Landing and Piazza Mazzini,Arrival point,45.987,9.261,Bellagio’s promontory controls views into three branches of Lake Como; strategic geography later became resort scenery.
+p179,como-lugano,Bellagio Two-Hour Route,Salita Serbelloni,Stair street,45.9865,9.2611,"Bellagio developed vertically between hillside and lake, so stair lanes were practical transport routes before becoming photo attractions."
+p180,como-lugano,Bellagio Two-Hour Route,Basilica di San Giacomo,Romanesque church,45.9878,9.2617,"The church dates from around the 11th or 12th century, while part of the bell tower may have begun as a defensive signal tower."
+p181,como-lugano,Bellagio Two-Hour Route,Medieval Tower Bellagio,Defensive history,45.9879,9.2615,The peaceful resort once needed towers to monitor movement and threats on the strategically important lake.
+p182,como-lugano,Bellagio Two-Hour Route,Punta Spartivento,Viewpoint,45.993,9.2614,"At the tip of the promontory, the lake’s branches and Bellagio’s geographic importance become immediately clear."
+p183,como-lugano,Bellagio Two-Hour Route,Bellagio Waterfront Promenade,Scenic walk,45.9855,9.26,Nineteenth-century hotels and promenades transformed a working harbour into an international resort entrance.
+p184,como-lugano,Bellagio Two-Hour Route,Bellagio quick panino stop,Quick bite,45.9868,9.2608,A bresaola panino brings a nearby Lombardy mountain specialty into a meal fast enough for the two-hour stop.
+p185,como-lugano,Bellagio Two-Hour Route,Bellagio gelato stop,Quick bite,45.9866,9.261,Bellagio’s steep lanes earn a portable gelato that can be eaten while returning toward the ferry.
+p186,como-lugano,Bellagio Two-Hour Route,Villa Melzi Gardens entrance,Optional garden,45.9815,9.2558,The neoclassical lakefront gardens are beautiful but should only be attempted if the tour schedule leaves enough time.
+p187,como-lugano,Lugano Ninety-Minute Route,Piazza della Riforma,Historic square,46.0039,8.9511,"The square combines Italian language and cafe culture with Swiss civic order, illustrating Ticino’s dual identity."
+p188,como-lugano,Lugano Ninety-Minute Route,Via Nassa,Historic shopping street,46.0014,8.9493,Covered arcades protected merchants and shoppers while linking commercial activity with the lakefront.
+p189,como-lugano,Lugano Ninety-Minute Route,Santa Maria degli Angioli,Frescoed church,45.9989,8.9473,"A restrained exterior hides a vast Renaissance Crucifixion fresco, creating a powerful visual surprise."
+p190,como-lugano,Lugano Ninety-Minute Route,Lugano Lakefront Promenade,Lakefront,46.0028,8.953,The sheltered lake climate allows palms and Mediterranean-looking plants to grow beside Alpine mountains.
+p191,como-lugano,Lugano Ninety-Minute Route,Parco Ciani,Lakeside park,46.0063,8.957,"Private grounds associated with the Ciani family became a public park in 1912, preserving prime waterfront for everyone."
+p192,como-lugano,Lugano Ninety-Minute Route,Monte San Salvatore View,Photo stop,46.0019,8.9505,The mountain’s steep profile gives Lugano one of Switzerland’s most Italian-looking lake panoramas.
+p193,como-lugano,Lugano Ninety-Minute Route,Lugano pizza al taglio stop,Quick bite,46.004,8.9515,A fast slice preserves sightseeing time while fitting Ticino’s Italian-speaking food culture.
+p194,como-lugano,Lugano Ninety-Minute Route,Lugano panino and espresso stop,Quick bite,46.0035,8.952,A panino and espresso demonstrate that Lugano’s everyday food rhythm feels closer to Milan than Zurich.
+p195,como-lugano,Lugano Ninety-Minute Route,Milan Piazza Duca d Aosta tour meeting point,Tour meeting point,45.4859,9.2044,"The day trip begins and ends near Milano Centrale, so the station square is the practical anchor for the entire excursion."
+p196,lucerne,Arrival and Waterfront,Hotel Alpina Luzern,Hotel,47.0483,8.3082,The hotel sits near the rail and lake connections that helped create Lucerne’s Alpine tourism boom.
+p197,lucerne,Arrival and Waterfront,Lucerne Railway Station,Station,47.0502,8.3102,The old station burned in 1971; its surviving entrance arch now stands separately before the modern building.
+p198,lucerne,Arrival and Waterfront,KKL Luzern,Modern architecture,47.0505,8.3128,Jean Nouvel’s immense projecting roof visually extends the lake into the cultural centre.
+p199,lucerne,Arrival and Waterfront,Inseli Park,Lakeside park,47.0486,8.3156,Public waterfront access preserves a central lake edge for views and gatherings.
+p200,lucerne,Historic Old Town,Chapel Bridge and Water Tower,Bridge,47.0516,8.3075,"The medieval bridge suffered a devastating 1993 fire and was rebuilt; the tower served as treasury, archive and prison, not water storage."
+p201,lucerne,Historic Old Town,Jesuit Church Lucerne,Baroque church,47.0504,8.3053,The bright Baroque church reflects Catholic renewal after the Reformation.
+p202,lucerne,Historic Old Town,Rathaus Brauerei,Brewery restaurant,47.0525,8.3063,Drinking locally brewed beer beneath the town hall places the visitor inside the old riverfront market tradition.
+p203,lucerne,Historic Old Town,Fritschibrunnen,Fountain,47.0526,8.3056,The colourful fountain connects medieval water supply and civic identity with Lucerne’s Fasnacht carnival traditions.
+p204,lucerne,Historic Old Town,Sternenplatz,Square,47.0531,8.3059,The small square preserves the intimate scale of old Lucerne’s public life.
+p205,lucerne,Historic Old Town,Cheese Barmettler,Cheese shop,47.0544,8.3086,Swiss valleys developed distinct cheeses to preserve summer milk and transport value from Alpine pastures.
+p206,lucerne,Historic Old Town,Aess-Bar Luzern,Bakery,47.0569,8.3119,Aess-Bar reduces waste by selling unsold bakery items from the previous day at lower prices.
+p207,lucerne,Historic Old Town,Spreuer Bridge,Bridge,47.0529,8.2998,The bridge’s Dance of Death paintings remind viewers that death reaches every rank and profession.
+p208,lucerne,Historic Old Town,Maennliturm and Musegg Wall,Fortification,47.0555,8.302,"The medieval wall protected routes between the Swiss plateau, lake and Alpine passes."
+p209,lucerne,Historic Old Town,Lion Monument,Memorial,47.0583,8.3109,The wounded lion commemorates Swiss Guards killed defending the French monarchy during the Revolution.
+p210,lucerne,Historic Old Town,Old Swiss House,Restaurant,47.0573,8.3106,The historic building and traditional food helped present Swiss culture to Lucerne’s international visitors.
+p211,lucerne,Food and Views,Mill Feuille,Cafe,47.0527,8.3022,"The riverside cafe reflects Lucerne’s blend of German, French and Italian culinary influences."
+p212,lucerne,Food and Views,Manora Restaurant Luzern,Quick meal,47.0538,8.3078,The department-store restaurant offers a practical and efficient meal format.
+p213,lucerne,Food and Views,Two Hands Restaurant,Restaurant,47.0472,8.3065,The modern restaurant shows that Lucerne dining extends beyond fondue and folklore.
+p214,lucerne,Food and Views,Fondue House du Pont,Fondue,47.0523,8.3055,Twentieth-century promotion helped transform practical Alpine melted cheese into a national symbol.
+p215,lucerne,Food and Views,Restaurant Buendnerland Luzern,Regional restaurant,47.0529,8.305,Graubuenden cuisine grew from high-altitude farming and the need to preserve food.
+p216,lucerne,Food and Views,Stadtkeller,Swiss folklore restaurant,47.0532,8.3061,"Music, costumes and food create a theatrical introduction to traditional culture."
+p217,lucerne,Food and Views,Brauerei Eichhof,Local brewery,47.0398,8.2977,Eichhof demonstrates the strength of central Switzerland’s regional brewing traditions.
+p218,lucerne,Food and Views,Guetsch and Chateau Guetsch,Viewpoint,47.0551,8.2913,"The hilltop panorama reveals old roofs, lake routes and mountains in one view."
+p219,lucerne,Nature and Excursion,Rotsee,Rowing lake,47.0693,8.3219,The sheltered lake offers unusually calm water and became an international rowing venue.
+p220,lucerne,Nature and Excursion,Bireggwald,Forest,47.0319,8.3179,The forest shows how Swiss woodland supports slopes and watersheds beyond postcard scenery.
+p221,lucerne,Nature and Excursion,Buergenstock Resort and Funicular,Mountain resort,46.9978,8.3828,Boats and a funicular made a difficult hillside accessible to international resort travel.
+p222,lucerne,Nature and Excursion,Hammetschwand Elevator,Outdoor elevator,47.0019,8.3927,"The early-1900s elevator rises about 150 metres along a cliff, combining Alpine scenery with bold engineering."
+p223,lucerne,Nature and Excursion,Hammetschwand Bergstation,Viewpoint,47.0026,8.3931,The summit view explains why Lake Lucerne resembles a network of fjords and once linked communities better than roads.
+p224,heidelberg,Old Town and Castle,ibis Heidelberg Hauptbahnhof,Hotel,49.4037,8.6756,The hotel sits beside the station with easy transit to the romantic old town.
+p225,heidelberg,Old Town and Castle,Hauptstrasse and Old Town,Pedestrian street,49.4105,8.7004,"Heidelberg survived with much historic fabric intact, so the old town feels lived-in rather than reconstructed."
+p226,heidelberg,Old Town and Castle,Heidelberg University,University,49.4104,8.7064,"Founded in 1386, Germany’s oldest university gave the small city an international intellectual identity."
+p227,heidelberg,Old Town and Castle,Student Prison,Quirky museum,49.4102,8.7067,"Students confined for minor offences covered the cells with names and drawings, sometimes treating detention as a badge of honour."
+p228,heidelberg,Old Town and Castle,Jesuit Church Heidelberg,Church,49.4101,8.708,The Baroque church reflects changing rulers and religious conflict in the Palatinate.
+p229,heidelberg,Old Town and Castle,Marktplatz and Church of the Holy Spirit,Historic square,49.4122,8.7098,"Trade, worship and public life shared this central space; Catholics and Protestants once divided the same church interior."
+p230,heidelberg,Old Town and Castle,Kornmarkt,Square,49.4116,8.7112,A former grain market now offers a dramatic street-level view of the castle ruins.
+p231,heidelberg,Old Town and Castle,Vetter's Alt Heidelberger Brauhaus,Brewery,49.4126,8.7108,The brewpub places local beer within everyday old-town and student life.
+p232,heidelberg,Old Town and Castle,Kulturbrauerei Heidelberg,Brewery,49.4128,8.7144,The complex treats brewing as part of Heidelberg culture rather than simply beverage production.
+p233,heidelberg,Old Town and Castle,Old Bridge and Bridge Gate,Bridge,49.4142,8.7097,"The stone bridge replaced wooden crossings repeatedly lost to floods, ice and war."
+p234,heidelberg,Old Town and Castle,Heidelberg Bridge Monkey,Quirky sculpture,49.4135,8.7102,The monkey’s mirror asks visitors to examine themselves before criticizing others.
+p235,heidelberg,Old Town and Castle,Heidelberg Castle,Castle ruins,49.4106,8.7157,War and lightning left a ruin that Romantic artists considered more evocative than a perfect palace.
+p236,heidelberg,Old Town and Castle,Castle Funicular,Funicular,49.4111,8.7122,The railway compresses the steep climb between commercial town and royal castle into a few minutes.
+p237,heidelberg,Old Town and Castle,Philosophers' Way,Scenic walk,49.4187,8.7047,"Professors and students walked the sunny hillside, which now provides the classic castle and bridge panorama."
+p238,heidelberg,Old Town and Castle,Snake Path,Steep path,49.4154,8.708,The zigzag route gradually reveals better views while connecting Old Bridge to Philosopher’s Way.
+p239,heidelberg,Old Town and Castle,Neckarwiese,Riverside park,49.415,8.6917,Students and residents use the lawn beside the same river that once carried freight through the valley.
+p240,heidelberg,Neckar Boat and Castles,Weisse Flotte Heidelberg Landing,Boat departure,49.4129,8.7013,Travelling by boat restores the Neckar as the main route through the valley rather than scenery beside a road.
+p241,heidelberg,Neckar Boat and Castles,Neckarsteinach Boat Landing,Boat landing,49.4075,8.8384,Four medieval castles cluster above the river bend because control of river movement once brought power and income.
+p242,heidelberg,Neckar Boat and Castles,Vorderburg,Private castle exterior,49.4091,8.8356,The inhabited private castle shows how some strongholds remained useful while neighbouring castles became ruins.
+p243,heidelberg,Neckar Boat and Castles,Mittelburg,Private castle exterior,49.4101,8.8323,The second private castle demonstrates how related noble families concentrated power along one hillside.
+p244,heidelberg,Neckar Boat and Castles,Hinterburg Castle Ruin,Castle ruin,49.4114,8.8297,"The oldest ruin still reveals windows, defensive details and the structure of a medieval courtyard."
+p245,heidelberg,Neckar Boat and Castles,Schadeck Castle Ruin - Schwalbennest,Cliffside ruin,49.4141,8.8239,"The Swallow’s Nest appears to cling to the slope, trading comfort for visibility and defence."
+p246,heidelberg,Neckar Boat and Castles,Neckarsteinach Railway Station,Return transport,49.4056,8.8422,Returning by train after arriving by boat turns the excursion into a short history of changing transport systems.
+p247,heidelberg,Food and Beer,Schnitzelbank,Restaurant,49.4108,8.7052,"The compact restaurant turns a simple schnitzel into a close, social tavern experience."
+p248,heidelberg,Food and Beer,Zum Roten Ochsen,Historic student tavern,49.4128,8.7134,"The centuries-old inn preserves student culture through memorabilia, songs and hearty regional food."
+p249,heidelberg,Food and Beer,Vetters Brauhaus Dinner,Brewery meal,49.4126,8.7108,"A local beer and meal bring Heidelberg’s tourist, student and brewing stories together."
+p250,heidelberg,Food and Beer,Kulturbrauerei Courtyard Dinner,Brewery meal,49.4128,8.7144,The courtyard offers substantial food and local beer after the long river and castle day.

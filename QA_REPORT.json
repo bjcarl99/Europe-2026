@@ -1,0 +1,21 @@
+{
+  "version": "7",
+  "cities": 9,
+  "places": 250,
+  "counts": {
+    "amsterdam": 31,
+    "antwerp": 24,
+    "paris": 58,
+    "aix": 23,
+    "geneva": 9,
+    "milan": 32,
+    "como-lugano": 18,
+    "lucerne": 28,
+    "heidelberg": 27
+  },
+  "missingTellTheGroup": [],
+  "missingCoordinates": [],
+  "duplicateIds": 0,
+  "detailsImplementation": "Stable place ID lookup: openDetail(id) writes to #detailContent",
+  "result": "PASS"
+}
