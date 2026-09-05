@@ -1,0 +1,16 @@
+{
+  "name": "Barry's Europe Guide",
+  "short_name": "Europe Guide",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7f1e7",
+  "theme_color": "#17324d",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

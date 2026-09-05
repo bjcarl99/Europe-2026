@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#17324d"><title>Barry's Europe Guide</title>
+<link rel="manifest" href="manifest.webmanifest"><link rel="apple-touch-icon" href="icon.svg">
+<link rel="preconnect" href="https://unpkg.com"><link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<link rel="stylesheet" href="styles.css">
+</head><body>
+<header class="topbar"><button id="backBtn" class="iconbtn hidden" aria-label="Back">←</button><div><h1 id="pageTitle">Barry's Europe Guide</h1><p id="pageSub">History, hidden gems and questionable trivia</p></div></header>
+<main>
+<section id="homeView" class="view">
+  <div class="hero"><span class="eyebrow">EUROPE 2026</span><h2>Where are we exploring?</h2><p>Choose a city to open the guide.</p></div>
+  <div id="cityGrid" class="city-grid"></div>
+</section>
+<section id="parisView" class="view hidden">
+  <div class="paris-tools">
+    <div class="segmented"><button class="active" data-panel="mapPanel">Map</button><button data-panel="listPanel">Places</button><button data-panel="walkPanel">Walks</button><button data-panel="schedulePanel">Schedule</button></div>
+    <button id="locateBtn" class="primary">◎ Find me</button>
+  </div>
+  <div id="mapPanel" class="panel"><div id="map"></div><div id="locationMsg" class="map-note">Tap “Find me” to show your live location.</div></div>
+  <div id="listPanel" class="panel hidden">
+    <div class="filters"><input id="searchBox" placeholder="Search Paris places"><select id="groupFilter"><option value="">All areas</option></select></div>
+    <div id="placeList" class="place-list"></div>
+  </div>
+  <div id="walkPanel" class="panel hidden"><div id="walkList" class="walk-list"></div></div><div id="schedulePanel" class="panel hidden"><div id="scheduleList" class="schedule-list"></div></div>
+</section>
+</main>
+<div id="sheet" class="sheet hidden" role="dialog" aria-modal="true"><div class="sheet-card"><button id="closeSheet" class="close">×</button><div id="sheetContent"></div></div></div>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script><script src="data.js"></script><script src="app.js"></script>
+</body></html>
