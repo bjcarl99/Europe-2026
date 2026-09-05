@@ -1,2 +1,1 @@
-BARRY'S EUROPE GUIDE V8 - THREE-TIER STORIES
-All 250 locations include Quick Facts, Tell the Group, and an expandable Deep Dive. Upload all files to the repository root. Cache: bev8-three-tier.
+V9: category-coloured pins and expandable, geographically ordered walking routes. Green is travel/hotels, blue is food/drinks, red is attractions. Upload all files to the repository root. Cache: bev9-routes-pins.

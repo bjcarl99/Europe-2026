@@ -1,10 +1,11 @@
-version: 8 three-tier
+version: 10 unique dive deeper
 cities: 9
 locations: 250
-quickFactWords: [20, 24]
-tellTheGroupWords: [161, 199]
-deepDiveWords: [418, 459]
-allTiersPresent: True
-stableUniqueIds: True
-detailsPanelTargetPresent: True
+deepDivesShown: 235
+deepDivesSkipped: 15
+foodAndDrinkDeepDives: 70
+utilityStopsSkipped: ['Amsterdam Centraal', 'ibis Amsterdam Centre', 'B&B HOTEL Antwerpen Centrum', 'Antwerpen-Centraal', 'Hotel Dame des Arts rooftop', 'Riviera Hotel Restaurant and Spa', 'Geneva Cornavin Station', 'Milano Centrale', 'Bellagio Ferry Landing and Piazza Mazzini', 'Milan Piazza Duca d Aosta tour meeting point', 'Hotel Alpina Luzern', 'Lucerne Railway Station', 'Hammetschwand Bergstation', 'ibis Heidelberg Hauptbahnhof', 'Neckarsteinach Railway Station']
+allQuickFactsPresent: True
+allTellTheGroupPresent: True
+detailsPanelPresent: True
 result: PASS
