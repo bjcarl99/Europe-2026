@@ -1,8 +1,11 @@
-V11 IMAGE QA
+V12 QA
 Result: PASS
-City hero searches: 9
-Location photo searches: 250
-Wikimedia loader: True
-Lazy loading: True
-Visible attribution: True
-Fallback: True
+Cities: 9
+Locations: 250
+City hero images retained: 9
+Location photos removed: True
+Quick Facts retained: True
+Tell the Group retained: True
+Ordered walks retained: True
+Category pins retained: True
+Details panel retained: True
