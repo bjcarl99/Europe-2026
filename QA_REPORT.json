@@ -1,21 +1,21 @@
 {
-  "version": "7",
+  "version": "8 three-tier",
   "cities": 9,
-  "places": 250,
-  "counts": {
-    "amsterdam": 31,
-    "antwerp": 24,
-    "paris": 58,
-    "aix": 23,
-    "geneva": 9,
-    "milan": 32,
-    "como-lugano": 18,
-    "lucerne": 28,
-    "heidelberg": 27
-  },
-  "missingTellTheGroup": [],
-  "missingCoordinates": [],
-  "duplicateIds": 0,
-  "detailsImplementation": "Stable place ID lookup: openDetail(id) writes to #detailContent",
+  "locations": 250,
+  "quickFactWords": [
+    20,
+    24
+  ],
+  "tellTheGroupWords": [
+    161,
+    199
+  ],
+  "deepDiveWords": [
+    418,
+    459
+  ],
+  "allTiersPresent": true,
+  "stableUniqueIds": true,
+  "detailsPanelTargetPresent": true,
   "result": "PASS"
 }
