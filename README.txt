@@ -1,1 +1,3 @@
-Upload every file in this folder to the root of your GitHub Pages repository. Antwerp and Paris are active. Open the published HTTPS link in Safari and choose Share > Add to Home Screen. The live map requires location permission. Remove hotel/home pins before public sharing.
+MASTER WEBSITE VERSION 5
+
+Paris, Antwerp and Amsterdam are active. Upload every file in this folder to the root of the existing GitHub Pages repository and replace the old versions. The cache name is bev5 so installed iPhone copies can refresh. Accommodation pins should be removed before public sharing.
