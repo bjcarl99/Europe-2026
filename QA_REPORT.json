@@ -1,5 +1,5 @@
 {
-  "version": "10 unique dive deeper",
+  "version": "11 city heroes and location photos",
   "cities": 9,
   "locations": 250,
   "deepDivesShown": 235,
@@ -25,5 +25,11 @@
   "allQuickFactsPresent": true,
   "allTellTheGroupPresent": true,
   "detailsPanelPresent": true,
-  "result": "PASS"
+  "result": "PASS",
+  "cityImageQueries": 9,
+  "locationImageQueries": 250,
+  "wikimediaLoaderPresent": true,
+  "lazyLoadingPresent": true,
+  "visibleAttributionPresent": true,
+  "imageFallbackPresent": true
 }

@@ -1,11 +1,8 @@
-version: 10 unique dive deeper
-cities: 9
-locations: 250
-deepDivesShown: 235
-deepDivesSkipped: 15
-foodAndDrinkDeepDives: 70
-utilityStopsSkipped: ['Amsterdam Centraal', 'ibis Amsterdam Centre', 'B&B HOTEL Antwerpen Centrum', 'Antwerpen-Centraal', 'Hotel Dame des Arts rooftop', 'Riviera Hotel Restaurant and Spa', 'Geneva Cornavin Station', 'Milano Centrale', 'Bellagio Ferry Landing and Piazza Mazzini', 'Milan Piazza Duca d Aosta tour meeting point', 'Hotel Alpina Luzern', 'Lucerne Railway Station', 'Hammetschwand Bergstation', 'ibis Heidelberg Hauptbahnhof', 'Neckarsteinach Railway Station']
-allQuickFactsPresent: True
-allTellTheGroupPresent: True
-detailsPanelPresent: True
-result: PASS
+V11 IMAGE QA
+Result: PASS
+City hero searches: 9
+Location photo searches: 250
+Wikimedia loader: True
+Lazy loading: True
+Visible attribution: True
+Fallback: True
